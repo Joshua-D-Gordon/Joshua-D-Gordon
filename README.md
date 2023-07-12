@@ -7,6 +7,7 @@
 - [🌄 Image Processing](#image-processing)
 - [📡 Communications](#communications)
 - [⚙️ Neural Networks](#neural-networks)
+- [👨‍💻 OOP](#OOP)
 
 ## 🧠 AI
 
@@ -29,6 +30,12 @@
 | Project 5 | Brief description of the project. | ![Project 5 Image](project5.png) | [Link to the project repository](https://github.com/your-username/communications-project-1) |
 
 ## ⚙️ Neural Networks
+
+| Project | Description | Image | Repository |
+|---------|-------------|-------|------------|
+| Project 6 | Brief description of the project. | ![Project 6 Image](project6.png) | [Link to the project repository](https://github.com/your-username/neural-networks-project-1) |
+
+## 👨‍💻 OOP
 
 | Project | Description | Image | Repository |
 |---------|-------------|-------|------------|
