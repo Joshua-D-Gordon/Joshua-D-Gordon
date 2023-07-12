@@ -1,3 +1,4 @@
+![banner](https://user-images.githubusercontent.com/42088872/95290058-f13b9180-089e-11eb-94e3-a44a5a1172c3.jpg)
 <h1 align="center">Hi 👋, I'm Joshua</h1>
 ![header banner](https://github.com/Joshua-D-Gordon/Joshua-D-Gordon/blob/main/data.png)
 ![banner](https://user-images.githubusercontent.com/42088872/95290058-f13b9180-089e-11eb-94e3-a44a5a1172c3.jpg)
