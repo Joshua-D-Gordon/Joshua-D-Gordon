@@ -1,4 +1,4 @@
-![banner](https://github.com/Joshua-D-Gordon/Joshua-D-Gordon/blob/main/data.png)
+![banner](https://github.com/Joshua-D-Gordon/Joshua-D-Gordon/blob/main/src/data.png)
 <h1 align="center">Hi 👋, I'm Joshua</h1>
 # My Projects
 
