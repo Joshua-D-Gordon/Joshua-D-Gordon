@@ -1,5 +1,47 @@
 ![banner](https://github.com/Joshua-D-Gordon/Joshua-D-Gordon/blob/main/data.png)
 <h1 align="center">Hi 👋, I'm Joshua</h1>
+# My Projects
+
+## Table of Contents
+- [AI](#ai)
+- [Image Processing](#image-processing)
+- [Communications](#communications)
+- [Neural Networks](#neural-networks)
+
+## AI
+- Project 1
+  - **Description**: Brief description of the project.
+  - **GitHub Repository**: [Link to the project repository](https://github.com/your-username/ai-project-1)
+  ![Project 1 Image](project1.png)
+
+- Project 2
+  - **Description**: Brief description of the project.
+  - **GitHub Repository**: [Link to the project repository](https://github.com/your-username/ai-project-2)
+  ![Project 2 Image](project2.png)
+
+## Image Processing
+- Project 3
+  - **Description**: Brief description of the project.
+  - **GitHub Repository**: [Link to the project repository](https://github.com/your-username/image-processing-project-1)
+  ![Project 3 Image](project3.png)
+
+- Project 4
+  - **Description**: Brief description of the project.
+  - **GitHub Repository**: [Link to the project repository](https://github.com/your-username/image-processing-project-2)
+  ![Project 4 Image](project4.png)
+
+## Communications
+- Project 5
+  - **Description**: Brief description of the project.
+  - **GitHub Repository**: [Link to the project repository](https://github.com/your-username/communications-project-1)
+  ![Project 5 Image](project5.png)
+
+## Neural Networks
+- Project 6
+  - **Description**: Brief description of the project.
+  - **GitHub Repository**: [Link to the project repository](https://github.com/your-username/neural-networks-project-1)
+  ![Project 6 Image](project6.png)
+
 <h3 align="center">A passionate data science student born in South Africa, raised in London and currently living in Israel</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joshua-d-gordon&label=Profile%20views&color=0e75b6&style=flat" alt="joshua-d-gordon" /> </p>
