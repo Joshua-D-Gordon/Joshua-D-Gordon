@@ -9,38 +9,30 @@
 - [Neural Networks](#neural-networks)
 
 ## AI
-- Project 1
-  - **Description**: Brief description of the project.
-  - **GitHub Repository**: [Link to the project repository](https://github.com/your-username/ai-project-1)
-  ![Project 1 Image](project1.png)
 
-- Project 2
-  - **Description**: Brief description of the project.
-  - **GitHub Repository**: [Link to the project repository](https://github.com/your-username/ai-project-2)
-  ![Project 2 Image](project2.png)
+| Project | Description | Repository |
+|---------|-------------|------------|
+| Project 1 | Brief description of the project. | [Link to the project repository](https://github.com/your-username/ai-project-1) |
+| Project 2 | Brief description of the project. | [Link to the project repository](https://github.com/your-username/ai-project-2) |
 
 ## Image Processing
-- Project 3
-  - **Description**: Brief description of the project.
-  - **GitHub Repository**: [Link to the project repository](https://github.com/your-username/image-processing-project-1)
-  ![Project 3 Image](project3.png)
 
-- Project 4
-  - **Description**: Brief description of the project.
-  - **GitHub Repository**: [Link to the project repository](https://github.com/your-username/image-processing-project-2)
-  ![Project 4 Image](project4.png)
+| Project | Description | Repository |
+|---------|-------------|------------|
+| Project 3 | Brief description of the project. | [Link to the project repository](https://github.com/your-username/image-processing-project-1) |
+| Project 4 | Brief description of the project. | [Link to the project repository](https://github.com/your-username/image-processing-project-2) |
 
 ## Communications
-- Project 5
-  - **Description**: Brief description of the project.
-  - **GitHub Repository**: [Link to the project repository](https://github.com/your-username/communications-project-1)
-  ![Project 5 Image](project5.png)
+
+| Project | Description | Repository |
+|---------|-------------|------------|
+| Project 5 | Brief description of the project. | [Link to the project repository](https://github.com/your-username/communications-project-1) |
 
 ## Neural Networks
-- Project 6
-  - **Description**: Brief description of the project.
-  - **GitHub Repository**: [Link to the project repository](https://github.com/your-username/neural-networks-project-1)
-  ![Project 6 Image](project6.png)
+
+| Project | Description | Repository |
+|---------|-------------|------------|
+| Project 6 | Brief description of the project. | [Link to the project repository](https://github.com/your-username/neural-networks-project-1) |
 
 <h3 align="center">A passionate data science student born in South Africa, raised in London and currently living in Israel</h3>
 
