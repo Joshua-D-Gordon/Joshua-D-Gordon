@@ -6,13 +6,13 @@
 - [🌄 Image Processing](#image-processing)
 - [📡 Communications](#communications)
 - [⚙️ Neural Networks](#neural-networks)
-- [👨‍💻 OOP](#OOP)
+- [👨‍💻 OOP & Languages](#OOP-&-Languages)
 
 ## 🧠 AI
 
 | Project | Description | Image | Repository |
 |----------------------|-----------------------------------|-------|------------|
-| Data Science Project | Brief description of the project. | ![Project 1 Image](project1.png) | [Data Science](https://github.com/Joshua-D-Gordon/Data-Science-Project)) |
+| Data Science Project | Brief description of the project. | ![Project 1 Image](project1.png) | [Data Science](https://github.com/Joshua-D-Gordon/Data-Science-Project) |
 | Data visualization | Brief description of the project. | ![Project 2 Image](project2.png) | [Link to the project repository](https://github.com/Joshua-D-Gordon/Data-visualization) |
 
 ## 🌄 Image Processing
@@ -43,7 +43,7 @@
 | Project 3 | Brief description of the project. | ![Project 6 Image](project6.png) | [Link to the project repository](https://github.com/your-username/neural-networks-project-1) |
 | Project 4 | Brief description of the project. | ![Project 6 Image](project6.png) | [Link to the project repository](https://github.com/your-username/neural-networks-project-1) |
 
-## 👨‍💻 OOP
+## 👨‍💻 OOP & Languages
 
 | Project | Description | Image | Repository |
 |---------|-------------|-------|------------|
