@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joshua</h1>
-![Alt Text](data.png)
+![Alt Text]([data.png](https://github.com/Joshua-D-Gordon/Joshua-D-Gordon/blob/main/data.png))
 <h3 align="center">A passionate data science student born in South Africa, raised in London and currently living in Israel</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joshua-d-gordon&label=Profile%20views&color=0e75b6&style=flat" alt="joshua-d-gordon" /> </p>
