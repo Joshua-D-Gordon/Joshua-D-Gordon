@@ -3,7 +3,7 @@
 
 ## Table of Contents
 - [🧠 AI](#ai)
-- [DL/ML](#DL/ML)
+- [💡 DL/ML](#DL/ML)
 - [🌄 Image Processing](#image-processing)
 - [📡 Communications](#communications)
 - [⚙️ Neural Networks & classical planning](#neural-networks)
@@ -18,7 +18,7 @@
 | Algoriythims Data-Science Bayesian-Networkst | Brief description of the project. | ![Project 1 Image](project1.png) | [Data Science](https://github.com/Joshua-D-Gordon/Data-Science-Project) |
 
 
-## DL/ML
+## 💡 DL/ML
 
 | Project | Description | Image | Repository |
 |----------------------|-----------------------------------|-------|------------|
