@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Joshua</h1>
-![Alt Text]([data.jpeg](https://github.com/Joshua-D-Gordon/Joshua-D-Gordon/blob/main/data.jpeg))
+![Alt Text](https://example.com/path/to/image.png)
+
 
 <h3 align="center">A passionate data science student born in South Africa, raised in London and currently living in Israel</h3>
 
