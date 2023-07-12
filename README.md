@@ -3,9 +3,10 @@
 
 ## Table of Contents
 - [🧠 AI](#ai)
+- [DL/ML](#DL/ML)
 - [🌄 Image Processing](#image-processing)
 - [📡 Communications](#communications)
-- [⚙️ Neural Networks](#neural-networks)
+- [⚙️ Neural Networks & classical planning](#neural-networks)
 - [👨‍💻 OOP & Languages](#OOP-&-Languages)
 
 ## 🧠 AI
@@ -14,44 +15,47 @@
 |----------------------|-----------------------------------|-------|------------|
 | Data Science Project | Brief description of the project. | ![Project 1 Image](project1.png) | [Data Science](https://github.com/Joshua-D-Gordon/Data-Science-Project) |
 | Data visualization | Brief description of the project. | ![Project 2 Image](project2.png) | [Link to the project repository](https://github.com/Joshua-D-Gordon/Data-visualization) |
+| Algoriythims Data-Science Bayesian-Networkst | Brief description of the project. | ![Project 1 Image](project1.png) | [Data Science](https://github.com/Joshua-D-Gordon/Data-Science-Project) |
+
+
+## DL/ML
+
+| Project | Description | Image | Repository |
+|----------------------|-----------------------------------|-------|------------|
+| GAN Project | Brief description of the project. | ![Project 1 Image](project1.png) | [Data Science](https://github.com/Joshua-D-Gordon/Data-Science-Project) |
+| cs231n-Stanford Computer Vision | Brief description of the project. | ![Project 2 Image](project2.png) | [Link to the project repository](https://github.com/Joshua-D-Gordon/Data-visualization) |
+
 
 ## 🌄 Image Processing
 
 | Project | Description | Image | Repository |
 |---------|-------------|-------|------------|
-| Project 1 | Brief description of the project. | ![Project 3 Image](project3.png) | [Link to the project repository](https://github.com/your-username/image-processing-project-1) |
-| Project 2 | Brief description of the project. | ![Project 4 Image](project4.png) | [Link to the project repository](https://github.com/your-username/image-processing-project-2) |
-| Project 3 | Brief description of the project. | ![Project 4 Image](project4.png) | [Link to the project repository](https://github.com/your-username/image-processing-project-2) |
-| Project 4 | Brief description of the project. | ![Project 4 Image](project4.png) | [Link to the project repository](https://github.com/your-username/image-processing-project-2) |
+| image processing | Brief description of the project. | ![Project 3 Image](project3.png) | [Link to the project repository](https://github.com/your-username/image-processing-project-1) |
+
 
 ## 📡 Communications
 
 | Project | Description | Image | Repository |
 |---------|-------------|-------|------------|
-| Project 1 | Brief description of the project. | ![Project 5 Image](project5.png) | [Link to the project repository](https://github.com/your-username/communications-project-1) |
-| Project 2 | Brief description of the project. | ![Project 5 Image](project5.png) | [Link to the project repository](https://github.com/your-username/communications-project-1) |
-| Project 3 | Brief description of the project. | ![Project 5 Image](project5.png) | [Link to the project repository](https://github.com/your-username/communications-project-1) |
-| Project 4 | Brief description of the project. | ![Project 5 Image](project5.png) | [Link to the project repository](https://github.com/your-username/communications-project-1) |
-| Project 5 | Brief description of the project. | ![Project 5 Image](project5.png) | [Link to the project repository](https://github.com/your-username/communications-project-1) |
+| Communications | Brief description of the project. | ![Project 5 Image](project5.png) | [Link to the project repository](https://github.com/your-username/communications-project-1) |
 
-## ⚙️ Neural Networks
+
+## ⚙️ Neural Networks & classical planning
 
 | Project | Description | Image | Repository |
 |---------|-------------|-------|------------|
-| Project 1 | Brief description of the project. | ![Project 6 Image](project6.png) | [Link to the project repository](https://github.com/your-username/neural-networks-project-1) |
-| Project 2 | Brief description of the project. | ![Project 6 Image](project6.png) | [Link to the project repository](https://github.com/your-username/neural-networks-project-1) |
-| Project 3 | Brief description of the project. | ![Project 6 Image](project6.png) | [Link to the project repository](https://github.com/your-username/neural-networks-project-1) |
-| Project 4 | Brief description of the project. | ![Project 6 Image](project6.png) | [Link to the project repository](https://github.com/your-username/neural-networks-project-1) |
+| Neural Networks | Brief description of the project. | ![Project 6 Image](project6.png) | [Link to the project repository](https://github.com/your-username/neural-networks-project-1) |
+| Classical Planing | Brief description of the project. | ![Project 6 Image](project6.png) | [Link to the project repository](https://github.com/your-username/neural-networks-project-1) |
+
 
 ## 👨‍💻 OOP & Languages
 
 | Project | Description | Image | Repository |
 |---------|-------------|-------|------------|
-| Project 1 | Brief description of the project. | ![Project 6 Image](project6.png) | [Link to the project repository](https://github.com/your-username/neural-networks-project-1) |
-| Project 1 | Brief description of the project. | ![Project 6 Image](project6.png) | [Link to the project repository](https://github.com/your-username/neural-networks-project-1) |
-| Project 1 | Brief description of the project. | ![Project 6 Image](project6.png) | [Link to the project repository](https://github.com/your-username/neural-networks-project-1) |
-| Project 1 | Brief description of the project. | ![Project 6 Image](project6.png) | [Link to the project repository](https://github.com/your-username/neural-networks-project-1) |
-| Project 1 | Brief description of the project. | ![Project 6 Image](project6.png) | [Link to the project repository](https://github.com/your-username/neural-networks-project-1) |
+| C++ | Brief description of the project. | ![Project 6 Image](project6.png) | [Link to the project repository](https://github.com/your-username/neural-networks-project-1) |
+| C | Brief description of the project. | ![Project 6 Image](project6.png) | [Link to the project repository](https://github.com/your-username/neural-networks-project-1) |
+| Java | Brief description of the project. | ![Project 6 Image](project6.png) | [Link to the project repository](https://github.com/your-username/neural-networks-project-1) |
+| OOP | Brief description of the project. | ![Project 6 Image](project6.png) | [Link to the project repository](https://github.com/your-username/neural-networks-project-1) |
 
 
 <h3 align="center">A passionate data science student born in South Africa, raised in London and currently living in Israel</h3>
