@@ -3,32 +3,32 @@
 # My Projects
 
 ## Table of Contents
-- [AI](#ai)
-- [Image Processing](#image-processing)
-- [Communications](#communications)
-- [Neural Networks](#neural-networks)
+- [🧠 AI](#ai)
+- [🌄 Image Processing](#image-processing)
+- [📡 Communications](#communications)
+- [⚙️ Neural Networks](#neural-networks)
 
-## AI
+## 🧠 AI
 
 | Project | Description | Image | Repository |
 |---------|-------------|-------|------------|
 | Project 1 | Brief description of the project. | ![Project 1 Image](project1.png) | [Link to the project repository](https://github.com/your-username/ai-project-1) |
 | Project 2 | Brief description of the project. | ![Project 2 Image](project2.png) | [Link to the project repository](https://github.com/your-username/ai-project-2) |
 
-## Image Processing
+## 🌄 Image Processing
 
 | Project | Description | Image | Repository |
 |---------|-------------|-------|------------|
 | Project 3 | Brief description of the project. | ![Project 3 Image](project3.png) | [Link to the project repository](https://github.com/your-username/image-processing-project-1) |
 | Project 4 | Brief description of the project. | ![Project 4 Image](project4.png) | [Link to the project repository](https://github.com/your-username/image-processing-project-2) |
 
-## Communications
+## 📡 Communications
 
 | Project | Description | Image | Repository |
 |---------|-------------|-------|------------|
 | Project 5 | Brief description of the project. | ![Project 5 Image](project5.png) | [Link to the project repository](https://github.com/your-username/communications-project-1) |
 
-## Neural Networks
+## ⚙️ Neural Networks
 
 | Project | Description | Image | Repository |
 |---------|-------------|-------|------------|
