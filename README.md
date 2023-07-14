@@ -11,9 +11,9 @@
 
 ## 🧠 AI
 
-| Project | Description | Image | Repository |
+| Project | Description | Technologies | Repository |
 |----------------------|-----------------------------------|-------|------------|
-| Data Science Project | Brief description of the project. | ![Project 1 Image](project1.png) | [Data Science](https://github.com/Joshua-D-Gordon/Data-Science-Project) |
+| Data Science Project | This project involved building classification and regression models using data science techniques. The classification model predicted the year of a survey based on nine features from the World Happiness report dataset. The regression model aimed to predict the writing score on a test based on various student-related features. The project showcased data analysis, preprocessing, model training, and evaluation techniques. | Python, Pandas, NumPy, Matplotlib, Scikit-learn | [Data Science](https://github.com/Joshua-D-Gordon/Data-Science-Project) |
 | Data visualization | Brief description of the project. | ![Project 2 Image](project2.png) | [Link to the project repository](https://github.com/Joshua-D-Gordon/Data-visualization) |
 | Algoriythims Data-Science Bayesian-Networkst | Brief description of the project. | ![Project 1 Image](project1.png) | [Data Science](https://github.com/Joshua-D-Gordon/Data-Science-Project) |
 
