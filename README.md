@@ -20,10 +20,10 @@
 
 ## 💡 DL/ML
 
-| Project | Description | Image | Repository |
+| Project | Description | Technologies | Repository |
 |----------------------|-----------------------------------|-------|------------|
-| GAN Project | Brief description of the project. | ![Project 1 Image](project1.png) | [Data Science](https://github.com/Joshua-D-Gordon/Data-Science-Project) |
-| cs231n-Stanford Computer Vision | Brief description of the project. | ![Project 2 Image](project2.png) | [Link to the project repository](https://github.com/Joshua-D-Gordon/Data-visualization) |
+| GAN Project | This project involved building a Generative Adversarial Network (GAN) to generate fashion-related images based on the Fashion MNIST dataset. Using PyTorch, a generator and discriminator were implemented to train the model. The generated images were analyzed, and arithmetic operations were performed on the noisy vectors used as input. The project showcased image generation and manipulation techniques using GANs. | Python, PyTorch | [GAN Project](https://github.com/Joshua-D-Gordon/Data-Science-Project](https://github.com/Joshua-D-Gordon/GAN-Project/tree/main) |
+| cs231n Stanford Computer Vision | Brief description of the project. | Python, Pytorch | [Link to the project repository](https://github.com/Joshua-D-Gordon/Data-visualization) |
 
 
 ## 🌄 Image Processing
