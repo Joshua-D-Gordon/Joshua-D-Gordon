@@ -23,7 +23,7 @@
 | Project | Description | Technologies | Repository |
 |----------------------|-----------------------------------|-------|------------|
 | GAN Project | This project involved building a Generative Adversarial Network (GAN) to generate fashion-related images based on the Fashion MNIST dataset. Using PyTorch, a generator and discriminator were implemented to train the model. The generated images were analyzed, and arithmetic operations were performed on the noisy vectors used as input. The project showcased image generation and manipulation techniques using GANs. | Python, PyTorch | [GAN Project](https://github.com/Joshua-D-Gordon/GAN-Project/tree/main) |
-| cs231n Stanford Computer Vision | Brief description of the project. | Python, Pytorch | [Link to the project repository](https://github.com/Joshua-D-Gordon/Data-visualization) |
+| CS231n Stanford Computer Vision Course | This repository contains my solutions and project work for the CS231n course on Computer Vision offered by Stanford University. The course covers a wide range of topics in computer vision, including image classification, object detection, image segmentation, and deep learning techniques. | Python, NumPy, OpenCV, Matplotlib | [Stanford Computer Vision Course](https://github.com/Joshua-D-Gordon/cs231n-Stanford-Computer-Vision) |
 
 
 ## 🌄 Image Processing
