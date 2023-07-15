@@ -53,12 +53,12 @@
 
 ## 👨‍💻 OOP & Languages
 
-| Project | Description | Image | Repository |
+| Project | Description | Technologies | Repository |
 |---------------------|---------------------------------------------|------------|---------------|
-| C++ | Brief description of the project. | ![Project 6 Image](project6.png) | [Link to the project repository](https://github.com/your-username/neural-networks-project-1) |
-| C | Brief description of the project. | ![Project 6 Image](project6.png) | [Link to the project repository](https://github.com/your-username/neural-networks-project-1) |
-| Java | Brief description of the project. | ![Project 6 Image](project6.png) | [Link to the project repository](https://github.com/your-username/neural-networks-project-1) |
-| OOP | Brief description of the project. | ![Project 6 Image](project6.png) | [Link to the project repository](https://github.com/your-username/neural-networks-project-1) |
+| C++ | This course covers the fundamentals of C++ programming language. Topics include data types, control structures, functions, classes,templates, meta-programming, The standard libary and object-oriented programming (OOP) concepts. Students learn to develop efficient and robust C++ programs. | C++ | [Link to the project repository](https://github.com/your-username/neural-networks-project-1) |
+| C | The C programming course focuses on the basics of the C programming language. I learned about variables, data types, control structures, arrays, The standard libary, memory management and ADT's. Emphasis is placed on developing structured and modular programs. | C | [Link to the project repository](https://github.com/your-username/neural-networks-project-1) |
+| Java | In the Java programming course, I learned the core concepts of the Java language, including syntax, object-oriented programming (OOP), exception handling, and input/output operations. The course covers topics such as classes, inheritance, polymorphism, and graphical user interface (GUI) development. | Java | [Link to the project repository](https://github.com/your-username/neural-networks-project-1) |
+| OOP | This course delves into the principles and practices of object-oriented programming (OOP). Students learn about encapsulation, inheritance, polymorphism, and abstraction. They develop a deeper understanding of designing and implementing object-oriented systems using various programming languages such as C++, Java, or Python. | Java, Python, C++ | [Link to the project repository](https://github.com/your-username/neural-networks-project-1) |
 
 
 <h3 align="center">A passionate data science student born in South Africa, raised in London and currently living in Israel</h3>
