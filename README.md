@@ -2,13 +2,13 @@
 <h1 align="center">Hey, Im Joshua <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px"></h1>
 
 ## Table of Contents
+- [✍️ Self Learning](#-self-learning)
 - [🧠 AI](#-ai)
 - [💡 DL/ML](#-dlml)
 - [🌄 Image Processing](#-image-processing)
 - [📡 Communications](#-communications)
 - [⚙️ Neural Networks & classical planning](#-neural-networks--classical-planning)
 - [👨‍💻 OOP & Languages](#-oop--languages)
-- [✍️ Self Learning](#-self-learning)
 
 ## ✍️ Self Learning
 
