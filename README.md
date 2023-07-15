@@ -2,8 +2,8 @@
 <h1 align="center">Hey, Im Joshua <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px"></h1>
 
 ## Table of Contents
-- [🧠 AI](#ai)
-- [💡 DL/ML](#DL/ML)
+- [🧠 AI](#🧠-AI)
+- [💡 DL/ML](#💡-DL/ML)
 - [🌄 Image Processing](#image-processing)
 - [📡 Communications](#communications)
 - [⚙️ Neural Networks & classical planning](#neural-networks)
