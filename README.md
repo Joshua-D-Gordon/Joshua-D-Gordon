@@ -28,9 +28,12 @@
 
 ## 🌄 Image Processing
 
-| Project | Description | Image | Repository |
+| Project | Description | Technologies | Repository |
 |---------------------|---------------------------------------------|------------|---------------|
-| image processing | Brief description of the project. | ![Project 3 Image](project3.png) | [Link to the project repository](https://github.com/your-username/image-processing-project-1) |
+| Image Representations and Point Operations | Loading grayscale and RGB image representations, displaying figures and images, transforming color spaces, histogram equalization, optimal quantization. | ![Project 3 Image](project3.png) | [Link to the project repository](https://github.com/your-username/image-processing-project-1) |
+| Convolution & Edge Detection | Convolution on 1D and 2D arrays, image derivative and blurring, edge detection, Hough circles, bilateral filter. | ![Project 3 Image](project3.png) | [Link to the project repository](https://github.com/your-username/image-processing-project-1) |
+| Pyramids and Optic Flow | Lucas Kanade optical flow, hierarchical optical flow, image alignment and warping, Gaussian and Laplacian pyramids, pyramid blending. | ![Project 3 Image](project3.png) | [Link to the project repository](https://github.com/your-username/image-processing-project-1) |
+| Stereo Matching and DLT | Stereo matching using SSD and normalized correlation, homography estimation with DLT, image warping and blending. | ![Project 3 Image](project3.png) | [Link to the project repository](https://github.com/your-username/image-processing-project-1) |
 
 
 ## 📡 Communications
