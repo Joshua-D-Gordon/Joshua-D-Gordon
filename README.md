@@ -8,6 +8,13 @@
 - [📡 Communications](#-communications)
 - [⚙️ Neural Networks & classical planning](#-neural-networks--classical-planning)
 - [👨‍💻 OOP & Languages](#-oop--languages)
+- [✍️ Self Learning](#-self-learning)
+
+## ✍️ Self Learning
+
+| Project | Description | Technologies | Repository |
+|---------------------|---------------------------------------------|------------|---------------|
+| Self Taught 1 | discription | Python, Pandas, NumPy, Matplotlib, Scikit-learn | [link to repo](https://github.com/Joshua-D-Gordon/Data-Science-Project) |
 
 ## 🧠 AI
 
