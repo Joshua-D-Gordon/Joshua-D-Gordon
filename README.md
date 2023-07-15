@@ -47,8 +47,8 @@
 
 | Project | Description | Technologies | Repository |
 |---------------------|---------------------------------------------|------------|---------------|
-| Neural Networks | This course focused on the fundamentals of neural networks and their applications in machine learning. Topics include the perceptron algorithm, Adaline (Adaptive Linear Neuron), different network architectures (such as feedforward, recurrent, and convolutional neural networks), and memory networks. | Python | [Link to the project repository](https://github.com/your-username/neural-networks-project-1) |
-| Classical Planing | This project involved reviewing a paper on classical planning problems that proposed the use of sketches of bounded width for providing linear suboptimal solutions. After the review, I gave over a presentation I created to summarize the key findings and insights from the paper. | Canva, Research Papers | [Link to the project repository](https://github.com/your-username/neural-networks-project-1) |
+| Neural Networks | This course focused on the fundamentals of neural networks and their applications in machine learning. Topics include the perceptron algorithm, Adaline (Adaptive Linear Neuron), different network architectures (such as feedforward, recurrent, and convolutional neural networks), and memory networks. | Python | [Neural Networks](https://github.com/Joshua-D-Gordon/Neural-networks) |
+| Classical Planing | This project involved reviewing a paper on classical planning problems that proposed the use of sketches of bounded width for providing linear suboptimal solutions. After the review, I gave over a presentation I created to summarize the key findings and insights from the paper. | Canva, Research Papers | [Classical Planners](https://github.com/Joshua-D-Gordon/Classical-planners) |
 
 
 ## 👨‍💻 OOP & Languages
