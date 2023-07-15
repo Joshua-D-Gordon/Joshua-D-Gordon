@@ -21,7 +21,7 @@
 ## 💡 DL/ML
 
 | Project | Description | Technologies | Repository |
-|----------------------|-----------------------------------|-------|------------|
+|---------------------|---------------------------------------------|------------|---------------|
 | GAN Project | This project involved building a Generative Adversarial Network (GAN) to generate fashion-related images based on the Fashion MNIST dataset. Using PyTorch, a generator and discriminator were implemented to train the model. The generated images were analyzed, and arithmetic operations were performed on the noisy vectors used as input. The project showcased image generation and manipulation techniques using GANs. | Python, PyTorch | [GAN Project](https://github.com/Joshua-D-Gordon/GAN-Project/tree/main) |
 | CS231n Stanford Computer Vision Course | This repository contains my solutions and project work for the CS231n course on Computer Vision offered by Stanford University. The course covers a wide range of topics in computer vision, including image classification, object detection, image segmentation, and deep learning techniques. | Python, NumPy, OpenCV, Matplotlib | [Stanford Computer Vision Course](https://github.com/Joshua-D-Gordon/cs231n-Stanford-Computer-Vision) |
 
@@ -29,21 +29,21 @@
 ## 🌄 Image Processing
 
 | Project | Description | Image | Repository |
-|---------|-------------|-------|------------|
+|---------------------|---------------------------------------------|------------|---------------|
 | image processing | Brief description of the project. | ![Project 3 Image](project3.png) | [Link to the project repository](https://github.com/your-username/image-processing-project-1) |
 
 
 ## 📡 Communications
 
 | Project | Description | Image | Repository |
-|---------|-------------|-------|------------|
+|---------------------|---------------------------------------------|------------|---------------|
 | Communications | Brief description of the project. | ![Project 5 Image](project5.png) | [Link to the project repository](https://github.com/your-username/communications-project-1) |
 
 
 ## ⚙️ Neural Networks & classical planning
 
 | Project | Description | Image | Repository |
-|---------|-------------|-------|------------|
+|---------------------|---------------------------------------------|------------|---------------|
 | Neural Networks | Brief description of the project. | ![Project 6 Image](project6.png) | [Link to the project repository](https://github.com/your-username/neural-networks-project-1) |
 | Classical Planing | Brief description of the project. | ![Project 6 Image](project6.png) | [Link to the project repository](https://github.com/your-username/neural-networks-project-1) |
 
@@ -51,7 +51,7 @@
 ## 👨‍💻 OOP & Languages
 
 | Project | Description | Image | Repository |
-|---------|-------------|-------|------------|
+|---------------------|---------------------------------------------|------------|---------------|
 | C++ | Brief description of the project. | ![Project 6 Image](project6.png) | [Link to the project repository](https://github.com/your-username/neural-networks-project-1) |
 | C | Brief description of the project. | ![Project 6 Image](project6.png) | [Link to the project repository](https://github.com/your-username/neural-networks-project-1) |
 | Java | Brief description of the project. | ![Project 6 Image](project6.png) | [Link to the project repository](https://github.com/your-username/neural-networks-project-1) |
