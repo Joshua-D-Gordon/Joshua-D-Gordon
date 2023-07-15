@@ -2,6 +2,7 @@
 <h1 align="center">Hey, Im Joshua <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px"></h1>
 
 ## Table of Contents
+
 - [✍️ Learning](#-learning)
 - [🧠 AI](#-ai)
 - [💡 DL/ML](#-dlml)
