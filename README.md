@@ -2,12 +2,12 @@
 <h1 align="center">Hey, Im Joshua <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px"></h1>
 
 ## Table of Contents
-- [🧠 AI](#AI)
-- [💡 DL/ML](#DM/ML)
-- [🌄 Image Processing](#Image-Processing)
-- [📡 Communications](#Communications)
-- [⚙️ Neural Networks & classical planning](#Neural-Networks--Classical-Planning)
-- [👨‍💻 OOP & Languages](#OOP--Languages)
+- [🧠 AI](#ai)
+- [💡 DL/ML](#dlml)
+- [🌄 Image Processing](#image-processing)
+- [📡 Communications](#communications)
+- [⚙️ Neural Networks & classical planning](#neural-networks--classical-planning)
+- [👨‍💻 OOP & Languages](#oop--languages)
 
 ## 🧠 AI
 
