@@ -30,10 +30,10 @@
 
 | Project | Description | Technologies | Repository |
 |---------------------|---------------------------------------------|------------|---------------|
-| Image Representations and Point Operations | Loading grayscale and RGB image representations, displaying figures and images, transforming color spaces, histogram equalization, optimal quantization. | ![Project 3 Image](project3.png) | [Link to the project repository](https://github.com/your-username/image-processing-project-1) |
-| Convolution & Edge Detection | Convolution on 1D and 2D arrays, image derivative and blurring, edge detection, Hough circles, bilateral filter. | ![Project 3 Image](project3.png) | [Link to the project repository](https://github.com/your-username/image-processing-project-1) |
-| Pyramids and Optic Flow | Lucas Kanade optical flow, hierarchical optical flow, image alignment and warping, Gaussian and Laplacian pyramids, pyramid blending. | ![Project 3 Image](project3.png) | [Link to the project repository](https://github.com/your-username/image-processing-project-1) |
-| Stereo Matching and DLT | Stereo matching using SSD and normalized correlation, homography estimation with DLT, image warping and blending. | ![Project 3 Image](project3.png) | [Link to the project repository](https://github.com/your-username/image-processing-project-1) |
+| Image Representations and Point Operations | Loading grayscale and RGB image representations, displaying figures and images, transforming color spaces, histogram equalization, optimal quantization. | Python, NumPy, OpenCV | [Image Representations and Point Operations](https://github.com/Joshua-D-Gordon/image-processing/tree/main/Image%20Representations%20and%20Point%20Operations) |
+| Convolution & Edge Detection | Convolution on 1D and 2D arrays, image derivative and blurring, edge detection, Hough circles, bilateral filter. | Python, NumPy, OpenCV) | [Convolution & Edge Detection](https://github.com/Joshua-D-Gordon/image-processing/tree/main/Convolution%20%26%20Edge%20Detection) |
+| Pyramids and Optic Flow | Lucas Kanade optical flow, hierarchical optical flow, image alignment and warping, Gaussian and Laplacian pyramids, pyramid blending. | Python, NumPy, OpenCV | [Pyramids and Optic Flow](https://github.com/Joshua-D-Gordon/image-processing/tree/main/Pyramids%20and%20Optic%20Flow) |
+| Stereo Matching and DLT | Stereo matching using SSD and normalized correlation, homography estimation with DLT, image warping and blending. | Python, NumPy, OpenCV | [ Stereo Matching and DLT](https://github.com/Joshua-D-Gordon/image-processing/tree/main/Stereo%20Matching%20and%20DLT) |
 
 
 ## 📡 Communications
