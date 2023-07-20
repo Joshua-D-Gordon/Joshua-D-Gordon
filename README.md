@@ -14,7 +14,7 @@
 
 | Project | Description | Technologies | Repository |
 |---------------------|---------------------------------------------|------------|---------------|
-| Self Taught 1 | discription | Python, Pandas, NumPy, Matplotlib, Scikit-learn | [link to repo](https://github.com/Joshua-D-Gordon/Data-Science-Project) |
+| Python for finance | rates of returns stocks & portfolios, algo trading | Python, Pandas, NumPy, Matplotlib, Scikit-learn, pandas_datareader, yfinance | [Python for finance](https://github.com/Joshua-D-Gordon/Python-finance) |
 
 ## 🧠 AI
 
