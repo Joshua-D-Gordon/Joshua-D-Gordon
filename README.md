@@ -72,7 +72,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joshua-d-gordon&label=Profile%20views&color=0e75b6&style=flat" alt="joshua-d-gordon" /> </p>
 
-- 🔭 I’m currently working on **Solving Problems with Sketch by bounded width**
+- 🔭 I’m currently working on **Python for finance**
 
 - 🌱 I’m currently learning **pytorch, image processing, deep learning**
 
@@ -80,7 +80,7 @@
 
 - 🤝 I’m looking for help with **ecommerce and digital marketing**
 
-- 👨‍💻 All of my projects are available at [https://www.lion-agency.co](https://www.lion-agency.co)
+- 👨‍💻 All of my websites i buildt for clients are available at [https://www.lion-agency.co](https://www.lion-agency.co)
 
 - 💬 Ask me about **conversion rates, digital marketing, ecommerce**
 
