@@ -15,6 +15,7 @@
 | Project | Description | Technologies | Repository |
 |---------------------|---------------------------------------------|------------|---------------|
 | Python for finance | rates of returns stocks & portfolios, algo trading | Python, Pandas, NumPy, Matplotlib, Scikit-learn, pandas_datareader, yfinance | [Python for finance](https://github.com/Joshua-D-Gordon/Python-finance) |
+| Python & Django FullStack Web Development | Fullstack course with python and Django | HTML, CSS, Bootstrap, JS, jQuery, python, Django | [Python & Django FullStack](https://github.com/Joshua-D-Gordon/Python---Django-Fullstack-Web-Development) |
 
 ## 🧠 AI
 
