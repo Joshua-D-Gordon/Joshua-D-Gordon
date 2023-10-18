@@ -49,6 +49,7 @@
 | Project | Description | Technologies | Repository |
 |---------------------|---------------------------------------------|------------|---------------|
 | Communications | In this project we explored a research paper about the dangers of IM applications. | Python, Pandas, numplot | [Final Project](https://github.com/Joshua-D-Gordon/Comunications/tree/main/Final_Project_Comunications/Final_Project_Comunications-main) |
+| All Communications | All communication TA's and projects| C, Python, scapy| [All Communications](https://github.com/Joshua-D-Gordon/Comunications/tree/main) |
 
 
 ## ⚙️ Neural Networks & classical planning
