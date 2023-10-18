@@ -46,9 +46,9 @@
 
 ## 📡 Communications
 
-| Project | Description | Image | Repository |
+| Project | Description | Technologies | Repository |
 |---------------------|---------------------------------------------|------------|---------------|
-| Communications | Brief description of the project. | ![Project 5 Image](project5.png) | [Link to the project repository](https://github.com/your-username/communications-project-1) |
+| Communications | In this project we explored a research paper about the dangers of IM applications. | Python, Pandas, numplot | [Final Project](https://github.com/Joshua-D-Gordon/Comunications/tree/main/Final_Project_Comunications/Final_Project_Comunications-main) |
 
 
 ## ⚙️ Neural Networks & classical planning
