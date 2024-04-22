@@ -51,6 +51,7 @@
 |---------------------|---------------------------------------------|------------|---------------|
 | Communications | In this project we explored a research paper about the dangers of IM applications. | Python, Pandas, numplot | [Final Project](https://github.com/Joshua-D-Gordon/Comunications/tree/main/Final_Project_Comunications/Final_Project_Comunications-main) |
 | All Communications | All communication TA's and projects| C, Python, scapy| [All Communications](https://github.com/Joshua-D-Gordon/Comunications/tree/main) |
+| All Operating Systems |  All Operating Systems TA's and projects | C | [All Operating Systems](https://github.com/Joshua-D-Gordon/Operating-Systems)|
 
 
 ## ⚙️ Neural Networks & classical planning
@@ -83,7 +84,7 @@
 
 - 🤝 I’m looking for help with **ecommerce and digital marketing**
 
-- 👨‍💻 All of my websites i buildt for clients are available at [https://www.lion-agency.co](https://www.lion-agency.co)
+- 👨‍💻 All of my websites i created for clients are available at [https://www.lion-agency.co](https://www.lion-agency.co)
 
 - 💬 Ask me about **conversion rates, digital marketing, ecommerce**
 
