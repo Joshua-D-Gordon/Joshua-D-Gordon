@@ -1,4 +1,4 @@
-![banner](https://github.com/Joshua-D-Gordon/Joshua-D-Gordon/blob/main/src/banner.png)
+![banner](https://github.com/Joshua-D-Gordon/Joshua-D-Gordon/blob/main/src/image-banner.png)
 <h1 align="center">Hey, I'm Joshua <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px"></h1>
 
 <p align="center">AI Engineer focused on building production-grade LLM systems from idea to deployment. I enjoy designing agentic workflows, retrieval-augmented generation (RAG) pipelines, evaluation frameworks, and full-stack AI products that solve real problems. My work spans AI engineering, backend architecture, and frontend development, with a strong emphasis on building reliable, scalable systems that bridge cutting-edge research and practical applications.</p>
