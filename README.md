@@ -1,106 +1,98 @@
-![banner](https://github.com/Joshua-D-Gordon/Joshua-D-Gordon/blob/main/src/data.png)
-<h1 align="center">Hey, Im Joshua <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px"></h1>
+![banner](https://github.com/Joshua-D-Gordon/Joshua-D-Gordon/blob/main/src/banner.png)
+<h1 align="center">Hey, I'm Joshua <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px"></h1>
+
+<p align="center">AI Engineer focused on building production-grade LLM systems from idea to deployment. I enjoy designing agentic workflows, retrieval-augmented generation (RAG) pipelines, evaluation frameworks, and full-stack AI products that solve real problems. My work spans AI engineering, backend architecture, and frontend development, with a strong emphasis on building reliable, scalable systems that bridge cutting-edge research and practical applications.</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/joshua-d-gordon/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/></a>
+  <a href="mailto:joshua.gordon.apply@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" height="30" width="40"/></a>
+</p>
 
 ## Table of Contents
+- [🤖 LLMs & Agents](#-llms--agents)
 - [🧠 AI](#-ai)
 - [💡 DL/ML](#-dlml)
 - [🌄 Image Processing](#-image-processing)
-- [📡 Communications](#-communications)
-- [⚙️ Neural Networks & classical planning](#-neural-networks--classical-planning)
 - [👨‍💻 OOP & Languages](#-oop--languages)
-- [📚 Learning](#-learning)
 
-## 📚 Learning
+## 🤖 LLMs & Agents
 
 | Project | Description | Technologies | Repository |
 |---------------------|---------------------------------------------|------------|---------------|
-| Python for finance | rates of returns stocks & portfolios, algo trading | Python, Pandas, NumPy, Matplotlib, Scikit-learn, pandas_datareader, yfinance | [Python for finance](https://github.com/Joshua-D-Gordon/Python-finance) |
-| Python & Django FullStack Web Development | Fullstack course with python and Django | HTML, CSS, Bootstrap, JS, jQuery, python, Django | [Python & Django FullStack](https://github.com/Joshua-D-Gordon/Python---Django-Fullstack-Web-Development) |
+| Email Agent | B2B outbound profiler & email agent — researches a target company on the open web, builds a structured dossier, drafts a personalized cold email, and recommends a send trigger. Chat UI drives the agent; dashboard streams live company profiles in realtime | Next.js, LangGraph, OpenAI, Tavily, Firestore, Firebase Auth | [email-agent](https://github.com/Joshua-D-Gordon/email-agent) |
+| Warren | AI investment research platform — chat interface to an AI agent for portfolio analysis, stock deep-dives, and market insights; includes portfolio dashboard, watchlist, agent flow viewer, and AI-generated suggestions | Next.js, TypeScript | Private |
+| Commercia | AI website builder — prompts generate section-level HTML variations via LLM; visual drag-and-drop builder with undo/redo, site management dashboard, and AI chatbot | Next.js, TypeScript | Private |
+| AgentDB (POC) | Agent-native database runtime — one endpoint, zero backend code. The LLM reads your Postgres schema and executes multi-step business operations from natural language goals, replacing REST endpoints and service layers. Tested across marketing, ecommerce, and CRM domains with the same codebase | Python, FastAPI, OpenAI, Supabase | Private |
 
 ## 🧠 AI
 
 | Project | Description | Technologies | Repository |
 |---------------------|---------------------------------------------|------------|---------------|
-| Data Science Project | This project involved building classification and regression models using data science techniques. The classification model predicted the year of a survey based on nine features from the World Happiness report dataset. The regression model aimed to predict the writing score on a test based on various student-related features. The project showcased data analysis, preprocessing, model training, and evaluation techniques. | Python, Pandas, NumPy, Matplotlib, Scikit-learn | [Data Science Project](https://github.com/Joshua-D-Gordon/Data-Science-Project) |
-| Data visualization | This data science project involved improving models and analyzing various datasets. It included parts focused on enhancing a classification model, working with the Fashion MNIST dataset, exploring the Dogs vs. Cats dataset, and developing a hand gesture recognition model. The project showcased data preprocessing, model building, and evaluation techniques.| Python, Pandas, NumPy, Matplotlib, Scikit-learn, XGBoost, Seaborn | [Data visualization](https://github.com/Joshua-D-Gordon/Data-visualization) |
-|Bayesian Network Project | This project involved building a Bayesian network from scratch in Java. It required creating multiple files, including node, creategraph, and conditionalprobabilitytables (CPTs), to construct the dependency graph from an XML file. The XML file specified the relationships between objects and their probabilities. The project also explored conditional dependency and optimized computational time by utilizing conditional dependency. The goal was to take an XML file and a text file with queries, construct the dependency graph, and output the correct answers. The project involved string manipulation, truth tables, and CPTs. | pure Java with no packages | [Bayesian Network Project](https://github.com/Joshua-D-Gordon/Algorithms_DataScience-Bayesian_Networks) |
-| Deep Learning NLP Course | Implementation and performance evaluation of various deep learning models applied to the CIFAR-10 dataset, a widely used benchmark dataset for image classification tasks. The objective is to compare the effectiveness of different model architectures in accurately classifying images across ten distinct categories: (airplane, automobile, bird, cat, deer, dog, frog, horse, ship, truck). The study progresses from simpler models such as Logistic Regression and Softmax to more sophisticated Convolutional Neural Networks (CNNs) and Deeper Convolutional Neural Networks (CNNs) . The project aims to understand how model complexity impacts classification accuracy and to provide insights into best practices for tackling image classification tasks. | Pytorch, Python, Matplot, Numpy | [CIFAR-10 Classification CNN ](https://github.com/Joshua-D-Gordon/Deep-Learning-NLP) |
-
+| Data Science Project | Classification and regression models on the World Happiness dataset — predicting survey year and student test scores | Python, Pandas, NumPy, Matplotlib, Scikit-learn | [Data Science Project](https://github.com/Joshua-D-Gordon/Data-Science-Project) |
+| Data Visualization | Model improvements across Fashion MNIST, Dogs vs. Cats, and hand gesture recognition datasets | Python, Pandas, NumPy, Matplotlib, Scikit-learn, XGBoost, Seaborn | [Data visualization](https://github.com/Joshua-D-Gordon/Data-visualization) |
+| Bayesian Network | Bayesian inference engine built from scratch — constructs dependency graphs from XML, evaluates queries using CPTs | Java | [Bayesian Network](https://github.com/Joshua-D-Gordon/Algorithms_DataScience-Bayesian_Networks) |
+| Deep Learning NLP Course | CIFAR-10 image classification: logistic regression → softmax → CNN, evaluating how architecture depth affects accuracy | PyTorch, Python, NumPy | [CIFAR-10 CNN](https://github.com/Joshua-D-Gordon/Deep-Learning-NLP) |
 
 ## 💡 DL/ML
 
 | Project | Description | Technologies | Repository |
 |---------------------|---------------------------------------------|------------|---------------|
-| GAN Project | This project involved building a Generative Adversarial Network (GAN) to generate fashion-related images based on the Fashion MNIST dataset. Using PyTorch, a generator and discriminator were implemented to train the model. The generated images were analyzed, and arithmetic operations were performed on the noisy vectors used as input. The project showcased image generation and manipulation techniques using GANs. | Python, PyTorch | [GAN Project](https://github.com/Joshua-D-Gordon/GAN-Project/tree/main) |
-| CS231n Stanford Computer Vision Course | This repository contains my solutions and project work for the CS231n course on Computer Vision offered by Stanford University. The course covers a wide range of topics in computer vision, including image classification, object detection, image segmentation, and deep learning techniques. | Python, NumPy, OpenCV, Matplotlib | [Stanford Computer Vision Course](https://github.com/Joshua-D-Gordon/cs231n-Stanford-Computer-Vision) |
-
+| GAN Project | GAN trained on Fashion MNIST — generated images and performed arithmetic operations in latent space | Python, PyTorch | [GAN Project](https://github.com/Joshua-D-Gordon/GAN-Project/tree/main) |
+| CS231n Stanford Computer Vision | Full assignment solutions for Stanford's CS231n — image classification, object detection, segmentation, and deep learning | Python, NumPy, OpenCV, Matplotlib | [Stanford CV Course](https://github.com/Joshua-D-Gordon/cs231n-Stanford-Computer-Vision) |
 
 ## 🌄 Image Processing
 
 | Project | Description | Technologies | Repository |
 |---------------------|---------------------------------------------|------------|---------------|
-| Image Representations and Point Operations | Loading grayscale and RGB image representations, displaying figures and images, transforming color spaces, histogram equalization, optimal quantization. | Python, NumPy, OpenCV | [Image Representations and Point Operations](https://github.com/Joshua-D-Gordon/image-processing/tree/main/Image%20Representations%20and%20Point%20Operations) |
-| Convolution & Edge Detection | Convolution on 1D and 2D arrays, image derivative and blurring, edge detection, Hough circles, bilateral filter. | Python, NumPy, OpenCV) | [Convolution & Edge Detection](https://github.com/Joshua-D-Gordon/image-processing/tree/main/Convolution%20%26%20Edge%20Detection) |
-| Pyramids and Optic Flow | Lucas Kanade optical flow, hierarchical optical flow, image alignment and warping, Gaussian and Laplacian pyramids, pyramid blending. | Python, NumPy, OpenCV | [Pyramids and Optic Flow](https://github.com/Joshua-D-Gordon/image-processing/tree/main/Pyramids%20and%20Optic%20Flow) |
-| Stereo Matching and DLT | Stereo matching using SSD and normalized correlation, homography estimation with DLT, image warping and blending. | Python, NumPy, OpenCV | [ Stereo Matching and DLT](https://github.com/Joshua-D-Gordon/image-processing/tree/main/Stereo%20Matching%20and%20DLT) |
-
-
-## 📡 Communications
-
-| Project | Description | Technologies | Repository |
-|---------------------|---------------------------------------------|------------|---------------|
-| Communications | In this project we explored a research paper about the dangers of IM applications. | Python, Pandas, numplot | [Final Project](https://github.com/Joshua-D-Gordon/Comunications/tree/main/Final_Project_Comunications/Final_Project_Comunications-main) |
-| All Communications | All communication TA's and projects| C, Python, scapy| [All Communications](https://github.com/Joshua-D-Gordon/Comunications/tree/main) |
-| All Operating Systems |  All Operating Systems TA's and projects | C | [All Operating Systems](https://github.com/Joshua-D-Gordon/Operating-Systems)|
-
-
-## ⚙️ Neural Networks & classical planning
-
-| Project | Description | Technologies | Repository |
-|---------------------|---------------------------------------------|------------|---------------|
-| Neural Networks | This course focused on the fundamentals of neural networks and their applications in machine learning. Topics include the perceptron algorithm, Adaline (Adaptive Linear Neuron), different network architectures (such as feedforward, recurrent, and convolutional neural networks), and memory networks. | Python | [Neural Networks](https://github.com/Joshua-D-Gordon/Neural-networks) |
-| Classical Planing | This project involved reviewing a paper on classical planning problems that proposed the use of sketches of bounded width for providing linear suboptimal solutions. After the review, I gave over a presentation I created to summarize the key findings and insights from the paper. | Canva, Research Papers | [Classical Planners](https://github.com/Joshua-D-Gordon/Classical-planners) |
-
+| Image Representations and Point Operations | Grayscale/RGB loading, color space transforms, histogram equalization, optimal quantization | Python, NumPy, OpenCV | [Image Representations](https://github.com/Joshua-D-Gordon/image-processing/tree/main/Image%20Representations%20and%20Point%20Operations) |
+| Convolution & Edge Detection | 1D/2D convolution, image derivatives, blurring, edge detection, Hough circles, bilateral filter | Python, NumPy, OpenCV | [Convolution & Edge Detection](https://github.com/Joshua-D-Gordon/image-processing/tree/main/Convolution%20%26%20Edge%20Detection) |
+| Pyramids and Optic Flow | Lucas-Kanade optical flow, hierarchical flow, image alignment, Gaussian/Laplacian pyramids, pyramid blending | Python, NumPy, OpenCV | [Pyramids and Optic Flow](https://github.com/Joshua-D-Gordon/image-processing/tree/main/Pyramids%20and%20Optic%20Flow) |
+| Stereo Matching and DLT | Stereo matching with SSD and normalized correlation, homography estimation via DLT | Python, NumPy, OpenCV | [Stereo Matching and DLT](https://github.com/Joshua-D-Gordon/image-processing/tree/main/Stereo%20Matching%20and%20DLT) |
 
 ## 👨‍💻 OOP & Languages
 
 | Project | Description | Technologies | Repository |
 |---------------------|---------------------------------------------|------------|---------------|
-| C++ | This course covers the fundamentals of C++ programming language. Topics include data types, control structures, functions, classes,templates, meta-programming, The standard libary and object-oriented programming (OOP) concepts. Students learn to develop efficient and robust C++ programs. | C++ | [C++](https://github.com/Joshua-D-Gordon/CPP) |
-| C | The C programming course focuses on the basics of the C programming language. I learned about variables, data types, control structures, arrays, The standard libary, memory management and ADT's. Emphasis is placed on developing structured and modular programs. | C | [C](https://github.com/Joshua-D-Gordon/C) |
-| Java | In the Java programming course, I learned the core concepts of the Java language, including syntax, object-oriented programming (OOP), exception handling, and input/output operations. The course covers topics such as classes, inheritance, polymorphism, and graphical user interface (GUI) development. | Java | [Java](https://github.com/Joshua-D-Gordon/Java) |
-| OOP | This course delves into the principles and practices of object-oriented programming (OOP). Students learn about encapsulation, inheritance, polymorphism, and abstraction. They develop a deeper understanding of designing and implementing object-oriented systems using various programming languages such as C++, Java, or Python. | Java, Python, C++ | [OOP](https://github.com/Joshua-D-Gordon/OOP) |
+| C++ | Data types, control structures, classes, templates, meta-programming, STL, and OOP | C++ | [C++](https://github.com/Joshua-D-Gordon/CPP) |
+| C | Variables, data types, memory management, ADTs, and modular program design | C | [C](https://github.com/Joshua-D-Gordon/C) |
+| Java | Core Java: syntax, OOP, exception handling, I/O, GUI development | Java | [Java](https://github.com/Joshua-D-Gordon/Java) |
+| OOP | Encapsulation, inheritance, polymorphism, and abstraction across multiple languages | Java, Python, C++ | [OOP](https://github.com/Joshua-D-Gordon/OOP) |
 
 
-<h3 align="center">A passionate data science student born in South Africa, raised in London and currently living in Israel</h3>
+<h3 align="center">AI engineer building production LLM systems — RAG, agents, and full-stack products. Based in Israel.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joshua-d-gordon&label=Profile%20views&color=0e75b6&style=flat" alt="joshua-d-gordon" /> </p>
 
-- 🔭 I’m currently working on **Python for finance**
+- 🔭 I'm currently working on **production RAG pipelines and agentic workflows**
 
-- 🌱 I’m currently learning **pytorch, image processing, deep learning**
+- 🌱 I'm currently exploring **context engineering, LLM evaluation, and multi-agent systems**
 
-- 👯 I’m looking to collaborate on **ecommerce and digital marketing**
-
-- 🤝 I’m looking for help with **ecommerce and digital marketing**
-
-- 👨‍💻 All of my websites i created for clients are available at [https://www.lion-agency.co](https://www.lion-agency.co)
-
-- 💬 Ask me about **conversion rates, digital marketing, ecommerce**
+- 💬 Ask me about **RAG, LangChain/LangGraph, LLM systems, full-stack AI products**
 
 - 📫 How to reach me **joshua.gordon.apply@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/joshua-d-gordon/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/joshua-d-gordon/" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/> </a>
+  <a href="https://supabase.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="supabase" width="40" height="40"/> </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> </a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+  <a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="vercel" width="40" height="40"/> </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joshua-d-gordon&show_icons=true&locale=en&layout=compact" alt="joshua-d-gordon" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joshua-d-gordon&show_icons=true&locale=en" alt="joshua-d-gordon" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joshua-d-gordon&" alt="joshua-d-gordon" /></p>
-
